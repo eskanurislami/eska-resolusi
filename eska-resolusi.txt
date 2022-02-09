@@ -1,3 +1,4 @@
 ESKA RESOLUSI
 - harus bisa jadi programmer
 - harus konsisten belajar programmer
+- membuat aplikasi sendiri
